@@ -24,6 +24,10 @@ The architecture consists of:
 * **Power Query (M Language):** Extract, Transform, Load (ETL) processing and type validations.
 * **Data Source:** Relational CSV datasets (`FactOrders`, `DimCustomer`, `DimProduct`, `DimRegion`, `DimDate`).
 
+`## 📊 Dashboard Preview`
+<img width="927" height="544" alt="image" src="https://github.com/user-attachments/assets/099713dd-5857-4af8-8d0d-dba148beb4fd" />
+
+
 ## 📂 Repository Structure
 ```text
 ├── Data/
